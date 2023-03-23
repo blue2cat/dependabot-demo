@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johnpapa/blue2cat/dependabot-demo/issues"
+    "url": "https://github.com/blue2cat/dependabot-demo/issues"
   },
   "dependencies": {
     "express": "^4.17.0"
