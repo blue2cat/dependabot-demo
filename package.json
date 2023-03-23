@@ -17,6 +17,6 @@
     "url": "https://github.com/johnpapa/blue2cat/dependabot-demo/issues"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.0"
   }
 }
